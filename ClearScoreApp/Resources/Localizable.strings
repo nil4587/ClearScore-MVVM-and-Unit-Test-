@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ClearScoreApp
+
+  Created by Nileshkumar Mukeshbhai Prajapati on 2021/10/05.
+  
+*/
+
+"invalid_url" = "Invalid request url";
+"api_something_went_wrong" = "Something went wrong..!! Please try again..!!";
+"score_board_leading_text" = "Your credit score is \n";
+"score_board_trailing_text" = "\n out of %d";
+"host_unavailable" = "A server with the specified hostname could not be found.";
+"ok_title" = "OK";
